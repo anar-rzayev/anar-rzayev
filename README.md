@@ -1,3 +1,4 @@
+<h1 align="center">Hi there 👋 🇦🇿</h1>
 <h3 align="center">I am Computer Science and Mathematics student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷. I love working on challenging problems and interested in Artificial Intelligence (especially ML, NLP, and CV), Distributed Computing, and Quantitative Research. Previously interned as Software Engineer, where I developed some internal features, and ML Engineer, where I worked on developing Deep Learning perception models for various Computer Vision tasks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anar-rzayev&label=Profile%20views&color=0e75b6&style=flat" alt="anar-rzayev" /> </p>

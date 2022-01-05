@@ -2,7 +2,7 @@
 
 I am Computer Science and Mathematics student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷. 
 
-I love working on challenging problems and interested in Artificial Intelligence (especially ML, NLP, and CV), Distributed Computing, and Quantitative Research.
+I love working on challenging problems and interested in Artificial Intelligence (especially ML, CV, and NLP), Distributed Computing, and Quantitative Research.
 
 Previously interned as Software Engineer, where I developed some internal features, and ML Engineer, where I worked on developing Deep Learning perception models for various Computer Vision tasks.
 

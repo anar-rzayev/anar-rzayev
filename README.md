@@ -1,12 +1,12 @@
 ### **Hi there** 👋 🇦🇿
 
-I am Computer Science and Mathematics student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷
+I am a Computer Science and Mathematics student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷
 
-I am also doing an exchange semester at EPFL (École polytechnique fédérale de Lausanne) 🇨🇭 
+I have done an exchange semester at EPFL (École Polytechnique Fédérale de Lausanne) 🇨🇭 
 
-I love working on challenging problems and interested in Artificial Intelligence (especially ML, CV, and NLP), Distributed Computing, and Quantitative Research.
+I love working on challenging problems and am interested in Artificial Intelligence, especially Natural Language Processing, Graph Representational Learning, and Generative AI.
 
-Previously interned as Software Engineer, where I developed some internal features, and ML Engineer, where I worked on developing Deep Learning perception models for various Computer Vision tasks.
+Previously interned as a Software Engineer, where I developed some internal features, and ML Engineer, where I worked on developing Deep Learning perception models for various Computer Vision and NLP tasks.
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anar-rzayev&show_icons=true&locale=en" alt="anar-rzayev" /></p>
 

@@ -1,23 +1,23 @@
 ### Hey, I'm Anar 👋 🇦🇿
 
-Research Intern → PhD @ __[IST Austria](https://ista.ac.at/en/research/bronstein-group/)__ (Bronstein Group) Geometric deep learning for structural biology — graphs, geometry, and steering generative models with experimental data.
+Research Intern → PhD @ __[IST Austria](https://ista.ac.at/en/research/bronstein-group/)__ (Bronstein Group) Geometric deep learning for structural biology — generative models guided by experimental data.
 
 ---
 
 ### 🔬 What I work on
 
-Protein structure and dynamics through the lens of geometric deep learning: graph neural networks, diffusion-based structure prediction, inference-time optimization. I like problems where the math is clean but the biology is messy.
+Protein structure and dynamics through graph neural networks, diffusion models, and inference-time guidance with experimental constraints. I like problems where the math is clean but the biology is messy.
 
 **Previously:**
 - 🧲 **QuantCo / Virdx** — MRI denoising for prostate cancer diagnosis
 - 🧬 **IBS Korea** — protein engineering & antibody design
-- 🔭 Earlier — computer vision and NLP
+- 🔭 Earlier — computer vision and representation learning
 
 ---
 
 ### ❤️ Beyond research
 
-- 🎵 Electronic music — techno, melodic house, ambient. You’ll catch me at Grelle Forelle, Das Werk, or DonauTechno.
+- 🎵 Electronic music — techno, melodic house, ambient
 - 🥾 Long hikes and weekend trips in the Austrian Alps
 - 🎾 Tennis — always down for a match
 - 🇰🇷 Years spent in Korea — still miss the food, the late nights, the people
@@ -28,9 +28,13 @@ Protein structure and dynamics through the lens of geometric deep learning: grap
 
 ### 🛠️ Stack
 
-[![](https://skillicons.dev/icons?i=python,r,pytorch,tensorflow)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=aws,latex,markdown)](https://skillicons.dev)
+| Machine Learning | Systems / Infrastructure |
+|---|---|
+| [![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,r)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=linux,docker,aws,bash)](https://skillicons.dev) |
+
+| Development | Research / Writing |
+|---|---|
+| [![](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=latex,markdown)](https://skillicons.dev) |
 
 ---
 
